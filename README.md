@@ -1,0 +1,4 @@
+- 👋 Hi, I’m peter
+- 👀 I’m interested in music and video, making and recording, and art and theater -- and web! :)
+- 🌱 I’m not really a programmer, but I'm cool with PHP and can handle Python
+-  I’m only writing this so that it'd be clear what my "level" is when it comes to a conversation :)
